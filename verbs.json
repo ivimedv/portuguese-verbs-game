@@ -1,0 +1,646 @@
+{
+    "regularVerbs": {
+        "abrir": [
+            "abro",
+            "abres",
+            "abre",
+            "abrimos",
+            "abrem"
+        ],
+        "falar": [
+            "falo",
+            "falas",
+            "fala",
+            "falamos",
+            "falam"
+        ],
+        "comer": [
+            "como",
+            "comes",
+            "come",
+            "comemos",
+            "comem"
+        ],
+        "estudar": [
+            "estudo",
+            "estudas",
+            "estuda",
+            "estudamos",
+            "estudam"
+        ],
+        "trabalhar": [
+            "trabalho",
+            "trabalhas",
+            "trabalha",
+            "trabalhamos",
+            "trabalham"
+        ],
+        "morar": [
+            "moro",
+            "moras",
+            "mora",
+            "moramos",
+            "moram"
+        ],
+        "andar": [
+            "ando",
+            "andas",
+            "anda",
+            "andamos",
+            "andam"
+        ],
+        "cantar": [
+            "canto",
+            "cantas",
+            "canta",
+            "cantamos",
+            "cantam"
+        ],
+        "comprar": [
+            "compro",
+            "compras",
+            "compra",
+            "compramos",
+            "compram"
+        ],
+        "chamar": [
+            "chamo",
+            "chamas",
+            "chama",
+            "chamamos",
+            "chamam"
+        ],
+        "visitar": [
+            "visito",
+            "visitas",
+            "visita",
+            "visitamos",
+            "visitam"
+        ],
+        "jogar": [
+            "jogo",
+            "jogas",
+            "joga",
+            "jogamos",
+            "jogam"
+        ],
+        "viajar": [
+            "viajo",
+            "viajas",
+            "viaja",
+            "viajamos",
+            "viajam"
+        ],
+        "dançar": [
+            "danço",
+            "danças",
+            "dança",
+            "dançamos",
+            "dançam"
+        ],
+        "esperar": [
+            "espero",
+            "esperas",
+            "espera",
+            "esperamos",
+            "esperam"
+        ],
+        "usar": [
+            "uso",
+            "usas",
+            "usa",
+            "usamos",
+            "usam"
+        ],
+        "achar": [
+            "acho",
+            "achas",
+            "acha",
+            "achamos",
+            "acham"
+        ],
+        "gostar": [
+            "gosto",
+            "gostas",
+            "gosta",
+            "gostamos",
+            "gostam"
+        ],
+        "lavar": [
+            "lavo",
+            "lavas",
+            "lava",
+            "lavamos",
+            "lavam"
+        ],
+        "ajudar": [
+            "ajudo",
+            "ajudas",
+            "ajuda",
+            "ajudamos",
+            "ajudam"
+        ],
+        "entrar": [
+            "entro",
+            "entras",
+            "entra",
+            "entramos",
+            "entram"
+        ],
+        "levar": [
+            "levo",
+            "levas",
+            "leva",
+            "levamos",
+            "levam"
+        ],
+        "pensar": [
+            "penso",
+            "pensas",
+            "pensa",
+            "pensamos",
+            "pensam"
+        ],
+        "voltar": [
+            "volto",
+            "voltas",
+            "volta",
+            "voltamos",
+            "voltam"
+        ],
+        "encontrar": [
+            "encontro",
+            "encontras",
+            "encontra",
+            "encontramos",
+            "encontram"
+        ],
+        "mostrar": [
+            "mostro",
+            "mostras",
+            "mostra",
+            "mostramos",
+            "mostram"
+        ],
+        "brincar": [
+            "brinco",
+            "brincas",
+            "brinca",
+            "brincamos",
+            "brincam"
+        ],
+        "estacionar": [
+            "estaciono",
+            "estacionas",
+            "estaciona",
+            "estacionamos",
+            "estacionam"
+        ],
+        "mandar": [
+            "mando",
+            "mandas",
+            "manda",
+            "mandamos",
+            "mandam"
+        ],
+        "almoçar": [
+            "almoço",
+            "almoças",
+            "almoça",
+            "almoçamos",
+            "almoçam"
+        ],
+        "gastar": [
+            "gasto",
+            "gastas",
+            "gasta",
+            "gastamos",
+            "gastam"
+        ],
+        "guardar": [
+            "guardo",
+            "guardas",
+            "guarda",
+            "guardamos",
+            "guardam"
+        ],
+        "beber": [
+            "bebo",
+            "bebes",
+            "bebe",
+            "bebemos",
+            "bebem"
+        ],
+        "aprender": [
+            "aprendo",
+            "aprendes",
+            "aprende",
+            "aprendemos",
+            "aprendem"
+        ],
+        "correr": [
+            "corro",
+            "corres",
+            "corre",
+            "corremos",
+            "correm"
+        ],
+        "vender": [
+            "vendo",
+            "vendes",
+            "vende",
+            "vendemos",
+            "vendem"
+        ],
+        "escrever": [
+            "escrevo",
+            "escreves",
+            "escreve",
+            "escrevemos",
+            "escrevem"
+        ],
+        "viver": [
+            "vivo",
+            "vives",
+            "vive",
+            "vivemos",
+            "vivem"
+        ],
+        "entender": [
+            "entendo",
+            "entendes",
+            "entende",
+            "entendemos",
+            "entendem"
+        ],
+        "prometer": [
+            "prometo",
+            "prometes",
+            "promete",
+            "prometemos",
+            "prometem"
+        ],
+        "perder": [
+            "perco",
+            "perdes",
+            "perde",
+            "perdemos",
+            "perdem"
+        ],
+        "conhecer": [
+            "conheço",
+            "conheces",
+            "conhece",
+            "conhecemos",
+            "conhecem"
+        ],
+        "receber": [
+            "recebo",
+            "recebes",
+            "recebe",
+            "recebemos",
+            "recebem"
+        ],
+        "escolher": [
+            "escolho",
+            "escolhes",
+            "escolhe",
+            "escolhemos",
+            "escolhem"
+        ],
+        "defender": [
+            "defendo",
+            "defendes",
+            "defende",
+            "defendemos",
+            "defendem"
+        ],
+        "assistir": [
+            "assisto",
+            "assistes",
+            "assiste",
+            "assistimos",
+            "assistem"
+        ],
+        "partir": [
+            "parto",
+            "partes",
+            "parte",
+            "partimos",
+            "partem"
+        ],
+        "decidir": [
+            "decido",
+            "decides",
+            "decide",
+            "decidimos",
+            "decidem"
+        ],
+        "dividir": [
+            "divido",
+            "divides",
+            "divide",
+            "dividimos",
+            "dividem"
+        ],
+        "sorrir": [
+            "sorrio",
+            "sorris",
+            "sorri",
+            "sorrimos",
+            "sorriem"
+        ],
+        "seguir": [
+            "sigo",
+            "segues",
+            "segue",
+            "seguimos",
+            "seguem"
+        ],
+        "subir": [
+            "subo",
+            "sobes",
+            "sobe",
+            "subimos",
+            "sobem"
+        ],
+        "sentir": [
+            "sinto",
+            "sentes",
+            "sente",
+            "sentimos",
+            "sentem"
+        ],
+        "dormir": [
+            "durmo",
+            "dormes",
+            "dorme",
+            "dormimos",
+            "dormem"
+        ],
+        "servir": [
+            "sirvo",
+            "serves",
+            "serve",
+            "servimos",
+            "servem"
+        ],
+        "preferir": [
+            "prefiro",
+            "preferes",
+            "prefere",
+            "preferimos",
+            "preferem"
+        ],
+        "vestir": [
+            "visto",
+            "vestes",
+            "veste",
+            "vestimos",
+            "vestem"
+        ],
+        "discutir": [
+            "discuto",
+            "discutes",
+            "discute",
+            "discutimos",
+            "discutem"
+        ],
+        "permitir": [
+            "permito",
+            "permites",
+            "permite",
+            "permitimos",
+            "permitem"
+        ],
+        "repetir": [
+            "repito",
+            "repetes",
+            "repete",
+            "repetimos",
+            "repetem"
+        ],
+        "existir": [
+            "existo",
+            "existes",
+            "existe",
+            "existimos",
+            "existem"
+        ],
+        "dar": [
+            "dou",
+            "dás",
+            "dá",
+            "damos",
+            "dão"
+        ],
+        "estar": [
+            "estou",
+            "estás",
+            "está",
+            "estamos",
+            "estão"
+        ],
+        "dizer": [
+            "digo",
+            "dizes",
+            "diz",
+            "dizemos",
+            "dizem"
+        ],
+        "fazer": [
+            "faço",
+            "fazes",
+            "faz",
+            "fazemos",
+            "fazem"
+        ],
+        "haver": [
+            "hei",
+            "hás",
+            "há",
+            "havemos",
+            "hão"
+        ],
+        "ler": [
+            "leio",
+            "lês",
+            "lê",
+            "lemos",
+            "leem"
+        ],
+        "poder": [
+            "posso",
+            "podes",
+            "pode",
+            "podemos",
+            "podem"
+        ],
+        "querer": [
+            "quero",
+            "queres",
+            "quer",
+            "queremos",
+            "querem"
+        ],
+        "saber": [
+            "sei",
+            "sabes",
+            "sabe",
+            "sabemos",
+            "sabem"
+        ],
+        "ser": [
+            "sou",
+            "és",
+            "é",
+            "somos",
+            "são"
+        ],
+        "ter": [
+            "tenho",
+            "tens",
+            "tem",
+            "temos",
+            "têm"
+        ],
+        "trazer": [
+            "trago",
+            "trazes",
+            "traz",
+            "trazemos",
+            "trazem"
+        ],
+        "ver": [
+            "vejo",
+            "vês",
+            "vê",
+            "vemos",
+            "veem"
+        ],
+        "ir": [
+            "vou",
+            "vais",
+            "vai",
+            "vamos",
+            "vão"
+        ],
+        "pedir": [
+            "peço",
+            "pedes",
+            "pede",
+            "pedimos",
+            "pedem"
+        ],
+        "sair": [
+            "saio",
+            "sais",
+            "sai",
+            "saímos",
+            "saem"
+        ],
+        "ouvir": [
+            "ouço",
+            "ouves",
+            "ouve",
+            "ouvimos",
+            "ouvem"
+        ],
+        "vir": [
+            "venho",
+            "vens",
+            "vem",
+            "vimos",
+            "vêm"
+        ],
+        "pôr": [
+            "ponho",
+            "pões",
+            "põe",
+            "pomos",
+            "põem"
+        ]
+    },
+    "translations": {
+        "abrir": "to open",
+        "falar": "to speak",
+        "comer": "to eat",
+        "estudar": "to study",
+        "trabalhar": "to work",
+        "morar": "to live",
+        "andar": "to walk",
+        "cantar": "to sing",
+        "comprar": "to buy",
+        "chamar": "to call",
+        "visitar": "to visit",
+        "jogar": "to play",
+        "viajar": "to travel",
+        "dançar": "to dance",
+        "esperar": "to wait/hope",
+        "usar": "to use",
+        "achar": "to think",
+        "gostar": "to like",
+        "lavar": "to wash",
+        "ajudar": "to help",
+        "entrar": "to enter",
+        "levar": "to take",
+        "pensar": "to think",
+        "voltar": "to return",
+        "encontrar": "to find",
+        "mostrar": "to show",
+        "brincar": "to play",
+        "estacionar": "to park",
+        "mandar": "to send",
+        "almoçar": "to have lunch",
+        "gastar": "to spend",
+        "guardar": "to keep",
+        "beber": "to drink",
+        "aprender": "to learn",
+        "correr": "to run",
+        "vender": "to sell",
+        "escrever": "to write",
+        "viver": "to live",
+        "entender": "to understand",
+        "prometer": "to promise",
+        "perder": "to lose",
+        "conhecer": "to know",
+        "receber": "to receive",
+        "escolher": "to choose",
+        "defender": "to defend",
+        "assistir": "to watch",
+        "partir": "to leave",
+        "decidir": "to decide",
+        "dividir": "to divide",
+        "sorrir": "to smile",
+        "seguir": "to follow",
+        "subir": "to go up",
+        "sentir": "to feel",
+        "dormir": "to sleep",
+        "servir": "to serve",
+        "preferir": "to prefer",
+        "vestir": "to wear",
+        "discutir": "to discuss",
+        "permitir": "to allow",
+        "repetir": "to repeat",
+        "existir": "to exist",
+        "dar": "to give",
+        "estar": "to be",
+        "dizer": "to say",
+        "fazer": "to do/make",
+        "haver": "to have",
+        "ler": "to read",
+        "poder": "to be able to",
+        "querer": "to want",
+        "saber": "to know",
+        "ser": "to be",
+        "ter": "to have",
+        "trazer": "to bring",
+        "ver": "to see",
+        "ir": "to go",
+        "pedir": "to ask/request",
+        "sair": "to leave/go out",
+        "ouvir": "to hear",
+        "vir": "to come",
+        "pôr": "to put/place"
+    }
+}
